@@ -1,0 +1,11 @@
+**/bin
+**/obj
+**/Dockerfile*
+**/.vscode
+**/.classpath
+**/.dockerignore
+**/.env
+**/.git
+**/.gitignore
+**/.project
+**/.settings
